@@ -1,9 +1,10 @@
+// Usage of Collections in JAVA. Classes for different Data Structures and their predefined methods are utilized.
 import java.util.*;  
 public class LinkedList {  
   
         public static void main(String [] args)  
         {  
-           LinkedList<String> ll=new LinkedList<String>();  
+           LinkedList<String> ll=new LinkedList<String>();   // An instance of LinkedList class is made. 
            ll.add("Ravi");  
            ll.add("Vijay");  
            ll.add("Ajay");  
